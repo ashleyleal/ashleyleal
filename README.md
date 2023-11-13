@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ashley, a computer engineering student at the University of Toronto.
+
 <!--
 **ashleyleal/ashleyleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
