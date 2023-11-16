@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ashley, a second year computer engineering student at the University of Toronto with a passion for hackathons, machine learning, and game development. 
+I'm Ashley, a second-year computer engineering student at the University of Toronto with a passion for hackathons, machine learning, and game development. I am eager to deepen my skills in these areas while also exploring other domains, such as web development and augmented reality.
 <!--
 **ashleyleal/ashleyleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
