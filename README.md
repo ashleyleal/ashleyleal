@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ashley, a second-year computer engineering student at the University of Toronto! I'm currently seeking Summer 2024 SWE internships
+I'm Ashley, a second-year computer engineering student at the University of Toronto! 
 <!--
 **ashleyleal/ashleyleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
