@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I'm Ashley, a third-year computer engineering student at the University of Toronto! 
-<!--
-**ashleyleal/ashleyleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashley, a third-year Computer Engineering student at the University of Toronto, specializing in Software and Control, with minors in AI and Business. I love working on projects that challenge both my creativity and technical abilities.
 
-Here are some ideas to get you started:
+My interests include (but definitely aren’t limited to):
+- 🔌 Embedded Systems & MCU development  
+- 🛠️ Hardware-Software Integration (e.g. robotics, IoT, wearables)  
+- 🤖 AI/ML
+- 🎮 Game Development  
+- 🖥️ Computer Architecture
+- 🌐 Full-Stack Web Development  
+- 🔗 Blockchain & Decentralized Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially driven by opportunities to take on technical leadership roles and apply all I’ve learned to solve meaningful, real-world problems.
