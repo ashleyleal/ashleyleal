@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ashley, a third-year Computer Engineering student at the University of Toronto, specializing in Software and Control, with minors in AI and Business. I love working on projects that challenge both my creativity and technical abilities.
+I'm Ashley, a Computer Engineering student at the University of Toronto, specializing in Software and Control, with minors in AI and Business. I love working on projects that challenge both my creativity and technical abilities.
 
 My interests include (but definitely aren’t limited to):
 - 🔌 Embedded Systems & MCU development  
